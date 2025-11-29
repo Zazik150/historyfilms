@@ -17,7 +17,7 @@
     border-radius: 12px;
     box-shadow: 0 5px 20px rgba(0,0,0,0.2);
     text-align: center;
-    color: white;
+    color: black;
 }
 
 .subscription-form h2 {
@@ -395,4 +395,5 @@ footer:hover p {
     footer a {
         margin: 0;
     }
+
 }
